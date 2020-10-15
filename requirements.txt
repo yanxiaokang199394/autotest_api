@@ -1,0 +1,4 @@
+ddt==1.4.1
+PyMySQL==0.10.0
+requests==2.24.0
+HTMLTestRunner==0.8.0
